@@ -1,0 +1,1 @@
+## This code was refactored using higher order functions in functional programming, making the entire code pure functions thereby increasing immutability across the codes to make for easier tesitng and debugging.

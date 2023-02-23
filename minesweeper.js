@@ -8,6 +8,7 @@ export const TILE_STATUSES = {
 }
 
 export function createBoard(boardSize, minePositions) {
+  
   return times(x => {
     return times(y => {
       return {
